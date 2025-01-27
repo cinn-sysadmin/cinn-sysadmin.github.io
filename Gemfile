@@ -33,4 +33,4 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "jekyll-octopod"
 gem "csv", "~> 3.3"
-gem "public_suffix", "~> 6.0.1"
+gem "public_suffix", "~> 6.0"
