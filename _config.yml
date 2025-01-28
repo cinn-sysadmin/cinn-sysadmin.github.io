@@ -36,6 +36,7 @@ plugins:
 #  - jekyll-remote-theme
 header_pages:
   - bingo.markdown
+  - podcast.markdown
   - about.markdown
   
 # Exclude from processing.
