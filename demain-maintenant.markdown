@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Votre Stanté
+title: Demain c'est maintenant
 permalink: /demain-maintenant/
 ---
 <img src="https://images.pod.co/tFzeg523xzDS2kaXFKCdtXaemyJcf7Z-X1OjbzBemjA/resize:fill:600:600/plain/artwork/618f8051-cdd1-46ce-8543-d688821624b7/demain-cest-aujourdhui.jpg" alt="Demain, c'est maintenant" width="200" height="200">
