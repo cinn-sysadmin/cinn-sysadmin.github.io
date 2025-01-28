@@ -4,7 +4,7 @@ title: Demain c'est maintenant
 permalink: /demain-maintenant/
 ---
 <img src="https://images.pod.co/tFzeg523xzDS2kaXFKCdtXaemyJcf7Z-X1OjbzBemjA/resize:fill:600:600/plain/artwork/618f8051-cdd1-46ce-8543-d688821624b7/demain-cest-aujourdhui.jpg" alt="Demain, c'est maintenant" width="200" height="200">
-
+Demain, c'est aujourd'hui
 <div class="podcastdotco-wrapper"><iframe src="https://play.pod.co/demain-cest-aujourdhui/demain-cest-maintenant-9-janvier-2024?mini=true" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:none;height:40px;"></iframe></div>
 <div class="podcastdotco-wrapper"><iframe src="https://play.pod.co/demain-cest-aujourdhui/demain-cest-maintenant-19-dcembre-2024?mini=true" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:none;height:40px;"></iframe></div>
 <div class="podcastdotco-wrapper"><iframe src="https://play.pod.co/demain-cest-aujourdhui/demain-cest-maintenant-12-dcembre-2024?mini=true" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:none;height:40px;"></iframe></div>

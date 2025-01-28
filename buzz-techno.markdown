@@ -4,7 +4,7 @@ title: BUZZ Techo
 permalink: /buzz-techno/
 ---
 <img src="https://images.pod.co/hJ8K1WCrt1pks1Nj4Xj9t-G3almHkUTCbodhYrNjQ78/resize:fill:600:600/plain/artwork/571fcae4-0ad0-43ec-b4bb-852bc87868d9/buzz-techno-1726281324.jpg" alt="Demain, c'est maintenant" width="200" height="200">
-
+L’univers des jeux vidéos et de la technologie avec vos animateurs Renée-Pier Fontaine et Justin Guindon.
 <div class="podcastdotco-wrapper"><iframe src="https://play.pod.co/buzz-techno/buzz-techno-2-dcembre-2024?mini=true" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:none;height:40px;"></iframe></div>
 <div class="podcastdotco-wrapper"><iframe src="https://play.pod.co/buzz-techno/buzz-techno-26-novembre-2024-partie-2?mini=true" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:none;height:40px;"></iframe></div>
 <div class="podcastdotco-wrapper"><iframe src="https://play.pod.co/buzz-techno/buzz-techno-26-novembre-2024-partie-1?mini=true" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:none;height:40px;"></iframe></div>
